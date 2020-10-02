@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>shell_gh_test</name>
-	<comment></comment>
+	<comment>This repo is made using the shell to git cli</comment>
 	<projects>
 	</projects>
 	<buildSpec>
